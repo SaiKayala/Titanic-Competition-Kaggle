@@ -1,4 +1,8 @@
 # Titanic Competition Kaggle
+This is a famous Kaggle competition. Goal here is to predict who will survive in the titanic crash based on their attributes.
+
+[Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic)
+
 ## Abstract
 
 ### What is that we're trying to solve?
